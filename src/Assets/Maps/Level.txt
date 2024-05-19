@@ -1,0 +1,48 @@
+#walls and floors
+new ResizableRect(-86, 518, 253, 46),
+new ResizableRect(90, 576, 253, 46),
+new ResizableRect(115, 743, 53, 116),
+new ResizableRect(31, 867, 368, 43),
+new ResizableRect(458, 575, 513, 55),
+new ResizableRect(974, 459, 177, 109),
+
+
+
+
+
+floors
+new ResizableRect(0, 517, 170, 49),
+new ResizableRect(153, 574, 184, 49),
+new ResizableRect(-2, 865, 402, 94),
+new ResizableRect(1, 668, 340, 72),
+
+new ResizableRect(404, 576, 1270, 294),
+
+
+blocks
+new ResizableRect(113, 748, 59, 114),
+new ResizableRect(977, 457, 173, 113),
+new ResizableRect(1321, 456, 58, 109),
+
+ladder
+new ResizableRect(349, 576, 46, 283),
+
+spikes
+new ResizableRect(1149, 556, 164, 17),
+
+coin
+new ResizableRect(561, 407, 34, 33),
+new ResizableRect(215, 773, 34, 33),
+new ResizableRect(1038, 316, 34, 33),
+new ResizableRect(1212, 310, 34, 33),
+
+
+  //  ResizableRect[] wall_tool =
+//      {
+//          new ResizableRect(-12, 669, 1009, 209),
+//          new ResizableRect(404, 576, 1200, 294),
+//
+//      };
+
+
+new ResizableRect(447, 525, 50, 50),

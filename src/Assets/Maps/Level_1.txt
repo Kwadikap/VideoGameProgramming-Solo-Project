@@ -1,0 +1,31 @@
+ledges
+new ResizableRect(-1, 125, 119, 25),
+new ResizableRect(42, 229, 198, 23),
+new ResizableRect(276, 640, 88, 25),
+new ResizableRect(1190, 344, 85, 104),
+
+ground
+new ResizableRect(71, 793, 249, 34),
+new ResizableRect(577, 792, 249, 34),
+new ResizableRect(661, 761, 249, 34),
+new ResizableRect(676, 747, 249, 34),
+new ResizableRect(839, 713, 249, 34),
+new ResizableRect(874, 680, 249, 34),
+new ResizableRect(921, 643, 249, 34),
+new ResizableRect(454, 334, 172, 35),
+new ResizableRect(491, 359, 172, 35),
+new ResizableRect(559, 385, 172, 35),
+new ResizableRect(4, 386, 138, 35),
+
+water
+new ResizableRect(319, 845, 257, 38),
+
+spikes
+new ResizableRect(886, 837, 132, 38),
+
+void
+new ResizableRect(583, 865, 176, 34),
+
+enemy spawn points
+x = 1190 -
+y = 334
